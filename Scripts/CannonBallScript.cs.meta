@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f46f574d59502394a809ab8f5987a0c3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - thisCannonBall: {instanceID: 0}
+  - impactSound: {fileID: 8300000, guid: ae1367d5b445d244d8ab5dc8901e5bb3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

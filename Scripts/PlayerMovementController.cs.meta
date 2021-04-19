@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c7c38c589f530874d86ce3df78f3ffaf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - controller: {fileID: 897159671118325412, guid: 8a13c7bdc5fd93749ade24f48049d8af,
+      type: 3}
+  - wallSpawnPosition: {fileID: 7875079629359737291, guid: fad7ff3700a39ed4e9c2ea28ee2c5bb9,
+      type: 3}
+  - wallObjectSpawnee: {fileID: 2216269504211322554, guid: 474482f16b57c4746a8b6bea7c31f0ef,
+      type: 3}
+  - wallObjectToDelete: {instanceID: 0}
+  - shootPos: {instanceID: 0}
+  - sphere: {instanceID: 0}
+  - aimCannonPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
